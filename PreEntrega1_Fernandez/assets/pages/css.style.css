@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+
+}
+header {
+    height: 15vh;
+    background-color: #6F83BF;
+  }
+  nav ul li {
+    display: inline-block;
+    border: 2px solid ;
+    padding: 5px;
+    border-radius: 5px;
+    background-color:#000000;
+}
+
+  main {
+    height: 80vh;
+  }
+  .section {
+    width: 280px;
+    height: 250px;
+    display: inline-block;
+    text-align: center;}
+  
+footer {
+    height: 20vh;
+    background-color: #283039;
+    }
